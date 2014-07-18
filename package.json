@@ -1,0 +1,30 @@
+{
+  "name": "gulp-respond",
+  "version": "1.0.0",
+  "description": "Send file stream into http server response.",
+  "main": "index.js",
+  "dependencies": {
+    "through2": "^0.5.1"
+  },
+  "devDependencies": {
+    "vinyl-fs": "^0.3.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orianda/gulp-respond.git"
+  },
+  "keywords": [
+    "gulp",
+    "stream",
+    "response"
+  ],
+  "author": "Orianda <orianda@paan.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orianda/gulp-respond/issues"
+  },
+  "homepage": "https://github.com/orianda/gulp-respond"
+}
